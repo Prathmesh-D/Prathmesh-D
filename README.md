@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathmesh-D
 - 👀 I’m interested in Web and Game Dev
-- 🌱 I’m currently learning Java,Web Dev and AES
+- 🌱 I’m currently learning Java,Web Dev
   
 
 <!---
