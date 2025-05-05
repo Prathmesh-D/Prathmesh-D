@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **UI/UX improvements for JavaFX apps**
 
-- 📝 I have write research paper on AES Encryption [https://www.ijsrd.com/Article.php?manuscript=IJSRDV12I40064](https://www.ijsrd.com/Article.php?manuscript=IJSRDV12I40064)
+- 📝 I have written a research paper on AES Encryption [https://www.ijsrd.com/Article.php?manuscript=IJSRDV12I40064](https://www.ijsrd.com/Article.php?manuscript=IJSRDV12I40064)
 
 - 💬 Ask me about **Java, JavaFX, Object-Oriented Programming, Software Design**
 
