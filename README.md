@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Deshkar</h1>
 <h3 align="center">Java Developer | Software Developer | C</h3>
 
-- 🔭 I’m currently working on **Java-based AES Text Encryption System**
+- 🔭 I’m currently working on **Desktop based Task Manager using Java , Swing and Flatlaf**
 
 - 🌱 I’m currently learning **Spring Boot, Software Architecture Patterns**
 
