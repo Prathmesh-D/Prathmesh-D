@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **Desktop based Task Manager using Java , Swing and Flatlaf**
 
-- 🌱 I’m currently learning **Spring Boot, Software Architecture Patterns**
+- 🌱 I’m currently learning **Software Architecture Patterns**
 
 - 👯 I’m looking to collaborate on **Desktop and web-based Java applications**
 
-- 🤝 I’m looking for help with **UI/UX improvements for JavaFX apps**
+- 🤝 I’m looking for help with **UI/UX improvements for JAVA Swing apps**
 
 - 📝 I have written a research paper on AES Encryption [https://www.ijsrd.com/Article.php?manuscript=IJSRDV12I40064](https://www.ijsrd.com/Article.php?manuscript=IJSRDV12I40064)
 
-- 💬 Ask me about **Java, JavaFX, Object-Oriented Programming, Software Design**
+- 💬 Ask me about **Java, Object-Oriented Programming, Software Design**
 
 - 📫 How to reach me **pdeshkar350@gmail.com**
 
