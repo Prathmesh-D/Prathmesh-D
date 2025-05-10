@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Desktop based Task Manager using Java , Swing and Flatlaf**
 
-- 🌱 I’m currently learning **Software Architecture Patterns**
+- 🌱 I’m currently learning **UI/UX Development using Swing**
 
 - 👯 I’m looking to collaborate on **Desktop and web-based Java applications**
 
