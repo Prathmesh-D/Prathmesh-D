@@ -1,4 +1,4 @@
-<img src="banner.png" alt="GitHub Banner" width="100%" />
+<img src="Banner.png" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Prathmesh Deshkar</h1>
 <h3 align="center">Java Developer | Software Developer | C</h3>
