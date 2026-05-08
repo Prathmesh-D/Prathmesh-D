@@ -2,7 +2,6 @@
 
 <div align="center">
 
-# Prathmesh Deshkar
 ### Full Stack Developer · Security Enthusiast · Published Researcher
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4F94EF&center=true&vCenter=true&width=600&lines=Building+secure%2C+production-grade+software;Java+%2B+React+%2B+TypeScript+developer;AES+encryption+researcher+%40+IJSRD;Always+shipping%2C+always+learning)](https://git.io/typing-svg)
