@@ -161,7 +161,7 @@ Follow the repo to stay updated.
 
 | Degree | Institution | Year | CGPA |
 |--------|-------------|------|------|
-| B.Tech – Information Technology | Madhav Institute of Technology and Science, Gwalior | 2023–2027 | 7.71 / 10 |
+| B.Tech – Information Technology | Madhav Institute of Technology and Science, Gwalior | 2023–2027 | 7.71 / 10 (as of 5th sem) |
 | Diploma – Computer Science | Government Polytechnic College, Betul | 2021–2024 | 8.09 / 10 |
 | SSC (10th) | — | 2021 | 8.7 / 10 |
 
