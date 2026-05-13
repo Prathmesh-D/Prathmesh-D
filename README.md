@@ -1,4 +1,4 @@
-<img src="Banner.png" alt="GitHub_Banner" width="100%" />
+<img src="assets/Banner.png" alt="GitHub_Banner" width="100%" />
 
 <div align="center">
 
@@ -32,37 +32,32 @@ My interests lie at the intersection of software engineering, cybersecurity, and
 
 ## 🛠️ Tech Stack
 
-### Languages & Frontend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🖥️ Languages & Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ts,js,react,vite,tailwind,html,css&theme=dark" />
+  </a>
+</p>
 
-### Backend & Database
-![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,gradle&theme=dark" />
+  <img src="./assets/icons/REST.svg" width="48" height="48" />
+  <img src="./assets/icons/JWT.svg" width="48" height="48" />
+</p>
 
-### Security & Crypto
-![AES-256](https://img.shields.io/badge/AES--256--GCM-FF6B35?style=flat-square&logo=security&logoColor=white)
-![RSA](https://img.shields.io/badge/RSA_Encryption-6C3483?style=flat-square&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+### 🔐 Security & Crypto
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali&theme=dark" />
+  <img src="./assets/icons/AES.svg" width="48" height="48" />
+  <img src="./assets/icons/RSA.svg" width="48" height="48" />
+</p>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 🚀 DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,electron,git,vscode,linux&theme=dark" />
+  <img src="./assets/icons/Render.svg" width="48" height="48" />
+</p>
 
 ---
 
