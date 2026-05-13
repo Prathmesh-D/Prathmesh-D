@@ -34,29 +34,42 @@ My interests lie at the intersection of software engineering, cybersecurity, and
 
 ### 🖥️ Languages & Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,js,react,vite,tailwind,html,css&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" title="TypeScript" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" title="React" alt="React" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" title="Vite" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" title="Tailwind CSS" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" title="HTML" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" title="CSS" alt="CSS" />
 </p>
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,gradle&theme=dark" />
-  <img src="./assets/icons/REST.svg" width="48" height="48" />
-  <img src="./assets/icons/JWT.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" title="MongoDB" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" title="MySQL" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="48" height="48" title="Gradle" alt="Gradle" />
+  <img src="./assets/icons/REST.svg" width="48" height="48" title="REST API" alt="REST API" />
+  <img src="./assets/icons/JWT.svg" width="48" height="48" title="JWT" alt="JWT" />
 </p>
 
 ### 🔐 Security & Crypto
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kali&theme=dark" />
-  <img src="./assets/icons/AES.svg" width="48" height="48" />
-  <img src="./assets/icons/RSA.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="48" height="48" title="Kali Linux" alt="Kali Linux" />
+  <img src="./assets/icons/AES.svg" width="48" height="48" title="AES Encryption" alt="AES Encryption" />
+  <img src="./assets/icons/RSA.svg" width="48" height="48" title="RSA Encryption" alt="RSA Encryption" />
 </p>
 
 ### 🚀 DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,electron,git,vscode,linux&theme=dark" />
-  <img src="./assets/icons/Render.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" title="Docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" title="GitHub Actions" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=electron&theme=dark" width="48" height="48" title="Electron" alt="Electron" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" title="VS Code" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" title="Linux" alt="Linux" />
+  <img src="./assets/icons/Render.svg" width="48" height="48" title="Render" alt="Render" />
 </p>
 
 ---
