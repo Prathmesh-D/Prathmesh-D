@@ -142,7 +142,7 @@ Follow the repo to stay updated.
 
 | Paper | Journal | Year |
 |-------|---------|------|
-| [Assessing the Impact of Increased MixColumns on AES Encryption Security and Performance](https://www.ijsrd.com) | IJSRD — Vol. 12, Issue 4 | 2023 |
+| [Assessing the Impact of Increased MixColumns on AES Encryption Security and Performance](https://www.ijsrd.com/Article.php?manuscript=IJSRDV12I40064) | IJSRD — Vol. 12, Issue 4 | 2023 |
 
 ---
 
