@@ -81,7 +81,7 @@ My interests lie at the intersection of software engineering, cybersecurity, and
 <td width="50%" valign="top">
 
 ### 🔐 Sentra — Encrypted File Sharing
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Prathmesh-D)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Prathmesh-D/Sentra)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 Full-stack encrypted file-sharing platform built for real-world use.
