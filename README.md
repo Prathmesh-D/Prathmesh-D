@@ -82,6 +82,7 @@ My interests lie at the intersection of software engineering, cybersecurity, and
 
 ### 🔐 Sentra — Encrypted File Sharing
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Prathmesh-D/Sentra)
+[![Live](https://img.shields.io/badge/Live-Render-000000?style=flat-square&logo=render)](https://sentra-9c4d.onrender.com/)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 Full-stack encrypted file-sharing platform built for real-world use.
@@ -98,6 +99,26 @@ Full-stack encrypted file-sharing platform built for real-world use.
 </td>
 <td width="50%" valign="top">
 
+### 🍒 Recruvia — AI ATS
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Prathmesh-D/Recruvia)
+[![Live](https://img.shields.io/badge/Live-Vercel-000000?style=flat-square&logo=vercel)](https://recruvia.vercel.app/)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
+Intelligent Applicant Tracking System using Google Gemini 2.0 Flash.
+
+**Highlights:**
+- Parses resumes & ranks candidates against Job Descriptions
+- Real-time scoring metrics via Server-Sent Events (SSE)
+- Secure, robust database architecture mapped with Prisma
+- Fully responsive Neobrutalist UI (Cherry Vanilla palette)
+
+`Next.js 15` `Gemini 2.0` `PostgreSQL` `Prisma` `Tailwind v4`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔬 Enhanced AES-192 Research Tool
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Prathmesh-D/AESFXEncrypt-JavaFX-AES-Encryption-Decryption-Tool)
 ![Status](https://img.shields.io/badge/Published-IJSRD-blue?style=flat-square)
@@ -111,24 +132,6 @@ Encryption tool built on top of published cryptographic research.
 - Demonstrated measurable security improvements
 
 `Java` `AES-192` `Cryptography` `Research`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Auto-Login Bot
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Prathmesh-D/AutoLoginBot)
-![Status](https://img.shields.io/badge/Status-Complete-lightgrey?style=flat-square)
-
-Python + Selenium automation bot for credential-based auto-login workflows.
-
-**Highlights:**
-- Stealth browser automation
-- Secure credential handling
-- Modular and easy to extend
-
-`Python` `Selenium` `Automation`
 
 </td>
 <td width="50%" valign="top">
