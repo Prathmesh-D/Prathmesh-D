@@ -74,6 +74,19 @@ My interests lie at the intersection of software engineering, cybersecurity, and
 
 ---
 
+<p align="center">
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=Prathmesh-D&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Prathmesh-D&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+  />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
