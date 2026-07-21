@@ -87,13 +87,13 @@ My interests lie at the intersection of software engineering, cybersecurity, and
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Sentra — Encrypted File Sharing
+### Sentra — Encrypted File Sharing
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Prathmesh-D/Sentra)
 [![Live](https://img.shields.io/badge/Live-Render-000000?style=flat-square&logo=render)](https://sentra-9c4d.onrender.com/)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
@@ -112,7 +112,7 @@ Full-stack encrypted file-sharing platform built for real-world use.
 </td>
 <td width="50%" valign="top">
 
-### 🍒 Recruvia — AI ATS
+### Recruvia — AI ATS
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Prathmesh-D/Recruvia)
 [![Live](https://img.shields.io/badge/Live-Vercel-000000?style=flat-square&logo=vercel)](https://recruvia.vercel.app/)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
@@ -132,29 +132,39 @@ Intelligent Applicant Tracking System using Google Gemini 2.0 Flash.
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 Enhanced AES-192 Research Tool
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Prathmesh-D/AESFXEncrypt-JavaFX-AES-Encryption-Decryption-Tool)
-![Status](https://img.shields.io/badge/Published-IJSRD-blue?style=flat-square)
+### Kurl — URL Shortener
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Prathmesh-D/Kurl)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
-Encryption tool built on top of published cryptographic research.
+A modern, high-performance URL shortener with real-time analytics and custom aliases.
 
 **Highlights:**
-- Modified AES-192 with increased MixColumns rounds
-- Evaluated via entropy, avalanche effect & execution time
-- Results published in **IJSRD Vol. 12, Issue 4**
-- Demonstrated measurable security improvements
+- Ultra-fast 302 redirection engine built in Java
+- Real-time click tracking, referrer logs & performance metrics
+- Custom, branded short link aliases (e.g. kurl.app/my-brand)
+- Instant QR code generation for offline sharing
+- JWT stateless auth on a Spring Boot backend
 
-`Java` `AES-192` `Cryptography` `Research`
+`React` `Spring Boot` `MySQL` `Tailwind v4`
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 More Coming Soon
-![WIP](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)
+### Jarr — Finance & Split-Bill Tracker
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Prathmesh-D/Jarr)
+[![Live](https://img.shields.io/badge/Live-Vercel-000000?style=flat-square&logo=vercel)](https://myjarr.vercel.app)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
-Currently working on new projects involving Spring Boot and system design.
+Full-stack personal finance app for tracking expenses and splitting bills with friends.
 
-Follow the repo to stay updated.
+**Highlights:**
+- Expense tracking with custom categories & tags
+- Visual spending insights and category breakdowns
+- Split bills with friends & automatic debt tracking
+- Web push notifications for overdue debts
+- PWA with service-worker auto-updates, JWT auth
+
+`React` `Vite` `Spring Boot` `MySQL` `Tailwind`
 
 </td>
 </tr>
